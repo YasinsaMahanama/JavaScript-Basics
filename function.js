@@ -20,13 +20,6 @@ console.log(substract(10,4));
 
 
 function division(fn,sn){
-    return fn-sn;
-}
-
-console.log(division(10,4));
-
-
-function division(fn,sn){
     return fn/sn;
 }
 
