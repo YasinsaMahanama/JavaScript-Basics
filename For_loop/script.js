@@ -10,4 +10,4 @@ for(i=1;i<=num;i++)
 }
 
 alert("Factorial : " + product);
-console.log("Factorial : " + product);
+document.write("Factorial : " + product);
