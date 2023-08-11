@@ -14,3 +14,11 @@ var result1 = (n1 + n2) * n1;
 
 document.write(result1, "<br/>");
 
+var result2 = n1++;
+
+document.write(result2, "<br/>");
+
+n1 += 5;
+
+document.write(n1, "<br/>");
+
